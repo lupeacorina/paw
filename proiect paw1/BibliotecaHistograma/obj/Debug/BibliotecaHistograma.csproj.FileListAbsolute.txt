@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\bin\Debug\BibliotecaHistograma.dll
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\bin\Debug\BibliotecaHistograma.pdb
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.csprojAssemblyReference.cache
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.Histograma.resources
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.dll
+C:\Users\User\source\repos\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.pdb
+D:\proiect paw1\BibliotecaHistograma\bin\Debug\BibliotecaHistograma.dll
+D:\proiect paw1\BibliotecaHistograma\bin\Debug\BibliotecaHistograma.pdb
+D:\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.csproj.AssemblyReference.cache
+D:\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.Histograma.resources
+D:\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.csproj.GenerateResource.cache
+D:\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.csproj.CoreCompileInputs.cache
+D:\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.dll
+D:\proiect paw1\BibliotecaHistograma\obj\Debug\BibliotecaHistograma.pdb

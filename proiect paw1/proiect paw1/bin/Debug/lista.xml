@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<ArrayOfCarte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Carte>
+    <CodCarte>27</CodCarte>
+    <Titlul>Moara cu noroc</Titlul>
+    <Autor>Ion Slavici</Autor>
+    <Editura>Nemira</Editura>
+    <AnAparitie>2021</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>6</CodCarte>
+    <Titlul>MAITREYI</Titlul>
+    <Autor>Mircea Eliade</Autor>
+    <Editura>Tana</Editura>
+    <AnAparitie>2018</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>9</CodCarte>
+    <Titlul>O MIE NOUĂ SUTE OPTZECI ȘI PATRU</Titlul>
+    <Autor>George Orwell</Autor>
+    <Editura>Polirom</Editura>
+    <AnAparitie>2019</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>10</CodCarte>
+    <Titlul>BĂTRÂNUL ȘI MAREA</Titlul>
+    <Autor>Ernest Hemingway</Autor>
+    <Editura>Polirom</Editura>
+    <AnAparitie>2014</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>11</CodCarte>
+    <Titlul>PORTRETUL LUI DORIAN GRAY</Titlul>
+    <Autor>Oscar Wilde</Autor>
+    <Editura>Polirom</Editura>
+    <AnAparitie>2013</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>12</CodCarte>
+    <Titlul>Ion</Titlul>
+    <Autor>Liviu Rebreanu</Autor>
+    <Editura>Litera</Editura>
+    <AnAparitie>2019</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>13</CodCarte>
+    <Titlul>Pacienta tacuta</Titlul>
+    <Autor>Alex Michaelides</Autor>
+    <Editura>Litera</Editura>
+    <AnAparitie>2019</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>14</CodCarte>
+    <Titlul>Baiatul cu pijamale in dungi</Titlul>
+    <Autor>John Boyne</Autor>
+    <Editura>RAO</Editura>
+    <AnAparitie>2016</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>15</CodCarte>
+    <Titlul>Acolo unde canta racii</Titlul>
+    <Autor>Delia Owens</Autor>
+    <Editura>Pandora M</Editura>
+    <AnAparitie>2020</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>16</CodCarte>
+    <Titlul>Iubita comandantului</Titlul>
+    <Autor>Pam Jenoff</Autor>
+    <Editura>Litera</Editura>
+    <AnAparitie>2021</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>17</CodCarte>
+    <Titlul>Oamenii fericiti citesc si beau cafea</Titlul>
+    <Autor>Agnes Martin-Lugand</Autor>
+    <Editura>Trei</Editura>
+    <AnAparitie>2019</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>18</CodCarte>
+    <Titlul>Biblioteca de la miezul noptii</Titlul>
+    <Autor>Matt Haig</Autor>
+    <Editura>Nemira</Editura>
+    <AnAparitie>2020</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>19</CodCarte>
+    <Titlul>Dintotdeauna TU</Titlul>
+    <Autor>Colleen Hoover</Autor>
+    <Editura>Epica</Editura>
+    <AnAparitie>2020</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>20</CodCarte>
+    <Titlul>Cele patruzeci de legi ale iubirii</Titlul>
+    <Autor>Elif Shafak</Autor>
+    <Editura>Polirom</Editura>
+    <AnAparitie>2014</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>21</CodCarte>
+    <Titlul>Un moment magic</Titlul>
+    <Autor>Kristin Hannah</Autor>
+    <Editura>Litera</Editura>
+    <AnAparitie>2021</AnAparitie>
+  </Carte>
+  <Carte>
+    <CodCarte>22</CodCarte>
+    <Titlul>Secretele Parisului</Titlul>
+    <Autor>Natasha Lester</Autor>
+    <Editura>Nemira</Editura>
+    <AnAparitie>2021</AnAparitie>
+  </Carte>
+</ArrayOfCarte>
